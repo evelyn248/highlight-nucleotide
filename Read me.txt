@@ -1,0 +1,33 @@
+# Highlight Nucleotide Sequences
+
+## English
+
+### Description
+This Python program allows you to scan a DNA sequence from a FASTA file and highlight sequences of three nucleotides that match the one specified by the user. It also counts how many times the specified sequence appears.
+
+### Features
+- Reads DNA sequences from FASTA files.
+- Highlights the specified 3-nucleotide sequences in the output.
+- Counts the occurrences of the specified 3-nucleotide sequence.
+
+### Requirements
+To use this program, make sure you have Python installed along with the required libraries. You can install them using the following command:
+
+pip install -r requirements.txt
+
+# Resaltar Secuencias de Nucleótidos
+
+## Español
+
+###Descripción
+Este programa en Python permite escanear una secuencia de ADN desde un archivo FASTA y resaltar las secuencias de tres nucleótidos que coincidan con la especificada por el usuario. También cuenta cuántas veces aparece la secuencia especificada.
+
+Características
+- Lee secuencias de ADN desde archivos FASTA.
+- Resalta las secuencias de 3 nucleótidos especificadas en la salida.
+- Cuenta las ocurrencias de la secuencia de 3 nucleótidos especificada.
+
+###Requisitos
+Para usar este programa, asegúrate de tener Python instalado junto con las bibliotecas necesarias. Puedes instalarlas utilizando el siguiente comando:
+
+pip install -r requirements.txt
